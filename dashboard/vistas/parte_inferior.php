@@ -62,6 +62,8 @@
     <script type="text/javascript" src="main.js"></script>  
     <!-- código Area JS --> 
     <script type="text/javascript" src="area.js"></script>  
+    <!-- código Nivel JS --> 
+    <script type="text/javascript" src="nivel.js"></script>  
     
 
     
