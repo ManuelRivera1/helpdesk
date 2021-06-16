@@ -78,7 +78,7 @@ if($_SESSION["s_usuario"] === null){
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Custom Components:</h6>
             <a class="collapse-item" href="area.php">Area</a>
-            <a class="collapse-item" href="cards.php">Cards</a>
+            <a class="collapse-item" href="nivel.php">Nivel De requerimiento</a>
           </div>
         </div>
       </li>
