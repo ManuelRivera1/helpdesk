@@ -64,6 +64,10 @@
     <script type="text/javascript" src="area.js"></script>  
     <!-- código Nivel JS --> 
     <script type="text/javascript" src="nivel.js"></script>  
+    <!-- código tipo requerimiento JS --> 
+    <script type="text/javascript" src="tipo_requerimiento.js"></script>  
+    <!-- código sybtipo requerimiento JS --> 
+    <script type="text/javascript" src="subtipo_requerimiento.js"></script>  
     
 
     

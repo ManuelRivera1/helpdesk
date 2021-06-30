@@ -79,6 +79,8 @@ if($_SESSION["s_usuario"] === null){
             <h6 class="collapse-header">Custom Components:</h6>
             <a class="collapse-item" href="area.php">Area</a>
             <a class="collapse-item" href="nivel.php">Nivel De requerimiento</a>
+            <a class="collapse-item" href="tipo_requerimiento.php">Tipo De requerimiento</a>
+            <a class="collapse-item" href="subtipo_requerimiento.php">Subtipo De requerimiento</a>
           </div>
         </div>
       </li>
